@@ -17,8 +17,8 @@ A Streamlit web application that summarizes YouTube videos using their transcrip
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/youtube-video-summarizer.git
-cd youtube-video-summarizer
+git clone https://github.com/Sakshi-2464/YouTube_Video_Summarization.git
+cd YouTube_Video_Summarization
 ```
 2. **Install Dependencies**
 ```bash
